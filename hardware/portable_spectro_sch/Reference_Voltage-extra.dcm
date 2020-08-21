@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP REF6041IDGKR
+D 4.096V 0.1% 4mA Low Noise Precision Voltage Reference, VSSOP-8
+F http://www.ti.com/lit/ds/symlink/ref6025.pdf
+$ENDCMP
+#
+#End Doc Library

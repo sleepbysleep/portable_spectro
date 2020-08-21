@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name portable_spectro_sch-rescue)(type Legacy)(uri ${KIPRJMOD}/portable_spectro_sch-rescue.lib)(options "")(descr ""))
+  (lib (name UJ31-CH-3-SMT-TR)(type Legacy)(uri ${KIPRJMOD}/UJ31-CH-3-SMT-TR/UJ31-CH-3-SMT-TR.lib)(options "")(descr ""))
+)

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPS61169DCKR
+D 38V High Current-Boost WLED driver with PWM, 2.7-5.5Vin, 1.8A Iout max, SC70-5
+K LED driver single
+F http://www.ti.com/lit/ds/symlink/tps61169.pdf
+$ENDCMP
+#
+#End Doc Library

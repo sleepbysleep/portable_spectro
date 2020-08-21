@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name Driver_LED-extra)(type Legacy)(uri ${KIPRJMOD}/Driver_LED-extra.lib)(options "")(descr ""))
+  (lib (name Sensor_Optical-extra)(type Legacy)(uri ${KIPRJMOD}/Sensor_Optical-extra.lib)(options "")(descr ""))
+  (lib (name Analog_ADC-extra)(type Legacy)(uri ${KIPRJMOD}/Analog_ADC-extra.lib)(options "")(descr ""))
+  (lib (name Reference_Voltage-extra)(type Legacy)(uri ${KIPRJMOD}/Reference_Voltage-extra.lib)(options "")(descr ""))
+  (lib (name MCU_Module-extra)(type Legacy)(uri ${KIPRJMOD}/MCU_Module-extra.lib)(options "")(descr ""))
+)

@@ -1,0 +1,11 @@
+(fp_lib_table
+  (lib (name OSRAM)(type KiCad)(uri ${KIPRJMOD}/OSRAM.pretty)(options "")(descr ""))
+  (lib (name UJ31-CH-3-SMT-TR)(type KiCad)(uri ${KIPRJMOD}/UJ31-CH-3-SMT-TR)(options "")(descr ""))
+  (lib (name Inductor_SMD-extra)(type KiCad)(uri ${KIPRJMOD}/Inductor_SMD-extra.pretty)(options "")(descr ""))
+  (lib (name Button_Switch_THT-extra)(type KiCad)(uri ${KIPRJMOD}/Button_Switch_THT-extra.pretty)(options "")(descr ""))
+  (lib (name HAMAMATSU)(type KiCad)(uri ${KIPRJMOD}/HAMAMATSU.pretty)(options "")(descr ""))
+  (lib (name RF_Module-extra)(type KiCad)(uri ${KIPRJMOD}/RF_Module-extra.pretty)(options "")(descr ""))
+  (lib (name Crystal-extra)(type KiCad)(uri ${KIPRJMOD}/Crystal-extra.pretty)(options "")(descr ""))
+  (lib (name AMS)(type KiCad)(uri ${KIPRJMOD}/AMS.pretty)(options "")(descr ""))
+  (lib (name Buzzer_Beeper-extra)(type KiCad)(uri ${KIPRJMOD}/Buzzer_Beeper-extra.pretty)(options "")(descr ""))
+)
